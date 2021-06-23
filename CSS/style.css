@@ -1,11 +1,45 @@
-h2 {
-    color: red;
+* {
+    text-align: right;
+}
+
+body {
+    background-image: url(eberhard-grossgasteiger-wdjoMekjo8c-unsplash.jpg);
+    background-size: cover;
+}
+
+h2,
+p {
+    color: #AA3939;
+    text-align: center;
+    border: 5px solid rgba(212, 106, 106, 0.5);
+    cursor: pointer;
 }
 
 p {
-    color: blue;
+    color: white;
 }
 
 #login {
     color: blue;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext {
+    border: 5px dashed white;
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background: rgba(0, 0, 255, 0.2);
+}
+
+#div2 {
+    background: rgba(255, 0, 0, 0.2);
 }
