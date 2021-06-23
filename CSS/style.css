@@ -7,8 +7,12 @@ body {
     background-size: cover;
 }
 
-h2,
-p {
+h2 {
+    color: red;
+    cursor: pointer;
+}
+
+h2+p {
     color: #AA3939;
     text-align: center;
     border: 5px solid rgba(212, 106, 106, 0.5);
@@ -21,6 +25,14 @@ p {
 
 #login {
     color: blue;
+}
+
+p {
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 180%;
+    font-family: 'Lobster', cursive;
 }
 
 li {
