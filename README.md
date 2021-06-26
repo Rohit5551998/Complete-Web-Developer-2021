@@ -4,3 +4,5 @@ This repo covers ZTM's Complete Web Developer 2021 course contents and also seve
 
 [Startup of the Year](https://rohit5551998.github.io/Complete-Web-Developer-2021/Startup%20of%20the%20Year%20Project/) Mini-Project hosted.
 
+[Prettify Layout](https://rohit5551998.github.io/Complete-Web-Developer-2021/CSS%20Layout/) Mini-Project hosted.
+
