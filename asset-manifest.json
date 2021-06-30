@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Complete-Web-Developer-2021/robofriends/static/css/main.eb55d06b.chunk.css",
+    "main.js": "/Complete-Web-Developer-2021/robofriends/static/js/main.5824f094.chunk.js",
+    "main.js.map": "/Complete-Web-Developer-2021/robofriends/static/js/main.5824f094.chunk.js.map",
+    "runtime-main.js": "/Complete-Web-Developer-2021/robofriends/static/js/runtime-main.4ee8f8d5.js",
+    "runtime-main.js.map": "/Complete-Web-Developer-2021/robofriends/static/js/runtime-main.4ee8f8d5.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/Complete-Web-Developer-2021/robofriends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.780fa108.chunk.js": "/Complete-Web-Developer-2021/robofriends/static/js/2.780fa108.chunk.js",
+    "static/js/2.780fa108.chunk.js.map": "/Complete-Web-Developer-2021/robofriends/static/js/2.780fa108.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/Complete-Web-Developer-2021/robofriends/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/Complete-Web-Developer-2021/robofriends/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/Complete-Web-Developer-2021/robofriends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/Complete-Web-Developer-2021/robofriends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.eb55d06b.chunk.css.map": "/Complete-Web-Developer-2021/robofriends/static/css/main.eb55d06b.chunk.css.map",
+    "static/js/2.780fa108.chunk.js.LICENSE.txt": "/Complete-Web-Developer-2021/robofriends/static/js/2.780fa108.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Complete-Web-Developer-2021/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee8f8d5.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.780fa108.chunk.js",
+    "static/css/main.eb55d06b.chunk.css",
+    "static/js/main.5824f094.chunk.js"
+  ]
+}
