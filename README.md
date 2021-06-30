@@ -8,3 +8,5 @@ This repo covers ZTM's Complete Web Developer 2021 course contents and also seve
 
 [Random Gradient Background Generator](https://rohit5551998.github.io/Complete-Web-Developer-2021/Background%20Generator/) Mini-Project hosted here.
 
+[Robo-Friends](https://rohit5551998.github.io/robofriends/) Mini-Project hosted here.
+
