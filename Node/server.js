@@ -24,24 +24,26 @@ const express = require('express');
 
 const app = express();
 
-app.use(express.urlencoded({ extended: false }));
-app.use(express.json());
+app.use(express.static(__dirname + '/public'));
 
-app.get('/', (req, res) => {
-    res.send("getting root")
-})
+// app.use(express.urlencoded({ extended: false }));
+// app.use(express.json());
 
-app.get('/profile', (req, res) => {
-    res.send("getting profile")
-})
+// app.get('/', (req, res) => {
+//     res.send("getting root")
+// })
 
-app.post('/profile', (req, res) => {
-    console.log(req.body);
-    const user = {
-        name: 'Sally',
-        hobby: 'Soccer'
-    }
-    res.send(user);
-})
+// app.get('/profile', (req, res) => {
+//     res.send("getting profile")
+// })
+
+// app.post('/profile', (req, res) => {
+//     console.log(req.body);
+//     const user = {
+//         name: 'Sally',
+//         hobby: 'Soccer'
+//     }
+//     res.send(user);
+// })
 
 app.listen(3001);
