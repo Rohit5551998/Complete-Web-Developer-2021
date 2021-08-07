@@ -10,3 +10,5 @@ This repo covers ZTM's Complete Web Developer 2021 course contents and also seve
 
 [Robo-Friends](https://rohit5551998.github.io/robofriends/) Mini-Project hosted here.
 
+[SmartBrain Face Detection App](https://smart-brain-app5.herokuapp.com/) Final Projct hosted here.
+
